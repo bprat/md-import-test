@@ -13,7 +13,7 @@ credentials.
 
 #### H4 My Work accompanies the Node.js application.
 
-*  OL1
+*  UL1
 	*	UL11
 		*	UL111
 		*	UL112
@@ -27,22 +27,22 @@ credentials.
 	1.	OL13
 	2.	OL14
 
-1.  OL2
+1.  OL1 - paragraphs created for top level **ol** s
+	1.	OL11 
+	2.	OL12 - no paragraphs here
+		1.	OL121 - or here
+			1.	OL1211 - or here
+			2. OL1212
+		2.	OL122
+	3.	OL13
+		1.	OL131
+2.	OL2
 	1.	OL21
-	2.	OL22
-		1.	OL221
-			1.	OL2211
-			2. OL2212
-		2.	OL222
-	3.	OL23
-		1.	OL231
-2.	OL3
-	1.	OL31
-	2. OL32
+	2. OL22
 
-3. OL4 test description
+3. OL3 test description
 
-4. OL5 
+4. OL4 
 
 
 		
@@ -117,7 +117,7 @@ credentials.
 
 #### H4 My Work accompanies the Node.js application.
 
-*  OL1
+*  UL1
 	*	UL11
 		*	UL111
 		*	UL112
@@ -131,14 +131,14 @@ credentials.
 	1.	OL13
 	2.	OL14
 
-1.  OL2
-	1.	OL21
-	2.	OL22
-		1.	OL221
-			1.	OL2211
-			2. OL2212
-		2.	OL222
-	3.	OL23
+1.  OL1
+	1.	OL11
+	2.	OL12
+		1.	OL121
+			1.	OL1211
+			2. OL1212
+		2.	OL122
+	3.	OL13
 		1.	OL231
 	
 
