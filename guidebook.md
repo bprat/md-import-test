@@ -102,7 +102,6 @@ If you have not done so already, log into your lab using the admin
 credentials.
 
 ### H3 2
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/64Qq31ucGy0/0.jpg)](https://www.youtube.com/watch?v=64Qq31ucGy0)
 #### H4 My Work accompanies the Node.js application.
 
 *  OL1
