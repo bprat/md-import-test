@@ -13,6 +13,23 @@ credentials.
 
 #### H4 My Work accompanies the Node.js application.
 
+1.  OL1 - `paragraphs created for top level OLs`
+	1.	OL11 
+	2.	OL12 - `no paragraphs here`
+		1.	OL121 - `or here`
+			1.	OL1211 - `or here`
+			2. OL1212
+		2.	OL122
+	3.	OL13
+		1.	OL131
+2.	OL2
+	1.	OL21
+	2. OL22
+
+3. OL3 test description
+
+4. OL4 
+
 *  UL1
 	*	UL11
 		*	UL111
@@ -27,22 +44,7 @@ credentials.
 	1.	OL13
 	2.	OL14
 
-1.  OL1 - paragraphs created for top level **ol** s
-	1.	OL11 
-	2.	OL12 - no paragraphs here
-		1.	OL121 - or here
-			1.	OL1211 - or here
-			2. OL1212
-		2.	OL122
-	3.	OL13
-		1.	OL131
-2.	OL2
-	1.	OL21
-	2. OL22
 
-3. OL3 test description
-
-4. OL4 
 
 
 		
