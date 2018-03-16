@@ -1,4 +1,4 @@
-# Session 1	
+# Session 1
 
 ## Goal
 
@@ -14,7 +14,7 @@ credentials.
 #### H4 My Work accompanies the Node.js application.
 
 1.  OL1 - `paragraphs created for top level OLs`
-	1.	OL11 
+	1.	OL11
 	2.	OL12 - `no paragraphs here`
 		1.	OL121 - `or here`
 			1.	OL1211 - `or here`
@@ -28,7 +28,7 @@ credentials.
 
 3. OL3 test description
 
-4. OL4 
+4. OL4
 
 *  UL1
 	*	UL11
@@ -43,13 +43,9 @@ credentials.
 		* 	UL122
 	1.	OL13
 	2.	OL14
+	3.	OL15
 
 
-
-
-		
-
-	
 
 ### Plugins
 
@@ -63,9 +59,9 @@ credentials.
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-		
+
 ##### H5
-###### H6	
+###### H6
 
 First Header  | Second Header
 ------------- | -------------
@@ -75,13 +71,13 @@ Content Cell  | Content Cell
 
 > Blockquote
 >> Nested Blockquote
->>> 3rd level 
+>>> 3rd level
 
 ![External Image test](http://s2.quickmeme.com/img/1d/1d99abc952c188da6c78f879d59cdc47926061a6bd88a5c47b85e2a1ce7e7f50.jpg)
 
 ##### H5 - Code
 ```javascript
-var specificLanguage_code = 
+var specificLanguage_code =
     {
         "data": {
             "lookedUpPlatform": 1,
@@ -144,11 +140,11 @@ credentials.
 		2.	OL122
 	3.	OL13
 		1.	OL231
-	
+
 
 ### Plugins		
 ##### H5
-###### H6	
+###### H6
 
 First Header  | Second Header
 ------------- | -------------
@@ -158,7 +154,7 @@ Content Cell  | Content Cell
 
 > Blockquote
 >> Nested Blockquote
->>> 3rd level 
+>>> 3rd level
 >>>> 4
 
 ##### H5 - inline code : `var specificLanguage_code = {}`
